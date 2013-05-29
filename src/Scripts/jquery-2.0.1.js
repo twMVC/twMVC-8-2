@@ -1,0 +1,1 @@
+function fakejQuery() { var a = "jquery222";  }
